@@ -12,7 +12,12 @@ Contrastive Learning for Compact Single Image Dehazing, CVPR2021. Official Pytor
 
 ### Pytorch Version
 
-The code will be released soon.
+TODO:
+
+- [ ] model code
+- [ ] pretrained models
+
+
 
 ### MindSpore Version
 
