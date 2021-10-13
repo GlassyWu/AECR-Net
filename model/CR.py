@@ -58,8 +58,6 @@ class ContrastLoss(nn.Module):
                 contrastive = d_ap / (d_an + 1e-7)
             else:
                 contrastive = d_ap
-            tmp_an += d_an
-            tmp_ap += d_ap
 
             loss += self.weights[i] * contrastive
         return loss
