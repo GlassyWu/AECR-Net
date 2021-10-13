@@ -14,7 +14,8 @@ Contrastive Learning for Compact Single Image Dehazing, CVPR2021. Official Pytor
 
 TODO:
 
-- [ ] model code
+- [x] model
+- [x] CR loss
 - [ ] pretrained models
 
 
