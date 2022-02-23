@@ -12,13 +12,9 @@ Contrastive Learning for Compact Single Image Dehazing, CVPR2021. Official Pytor
 
 ### Pytorch Version
 
-TODO:
-
 - [x] model
 - [x] CR loss
-- [ ] pretrained models
-
-
+- [x] pretrained models
 
 ### MindSpore Version
 
@@ -27,3 +23,9 @@ https://github.com/Booooooooooo/AECRNet-MindSpore by @wyb
 ## Performance
 
 ![](img/performance.png)
+
+## Others
+
+**Pretrained models:**
+
+https://pan.baidu.com/s/13crsXwwhkI5A3MlHtPihuA  password: xhyi
